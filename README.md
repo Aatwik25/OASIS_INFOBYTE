@@ -9,3 +9,7 @@ measurements of the iris species and classify them.
 who are unemployed as a percentage of the total labour force. We have seen a sharp
 increase in the unemployment rate during Covid-19, so analyzing the unemployment rate
 can be a good data science project. 
+
+3.The price of a car depends on a lot of factors like the goodwill of the brand of the car,
+features of the car, horsepower and the mileage it gives and many more. Car price
+prediction is one of the major research areas in machine learning. 
